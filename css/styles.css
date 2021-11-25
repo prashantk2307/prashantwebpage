@@ -1,0 +1,44 @@
+body{
+
+  background-color: grey;
+  
+}
+.image
+{
+width:30%;
+border-radius: 100%;
+
+
+}
+.Xy
+{
+  margin-left: 50px;
+}
+.top
+{
+  background-color: yellow;
+}
+.middle
+{ margin: 0 auto;
+  background-color: grey;
+  position: relative;
+  text-align: center;
+  width:80%;
+}
+
+.intro{
+   margin-top: 50px;
+
+  position: absolute;
+}
+p{
+  font-size: 30px;
+}
+li{
+  line-height: 2;
+}
+h1{
+  margin-bottom: 0;
+  color:blue;
+  font-size: 100px;
+}
